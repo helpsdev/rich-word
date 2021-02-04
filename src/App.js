@@ -5,8 +5,8 @@ import Toolbar from "./Components/Toolbar/Toolbar";
 function App() {
   return (
     <div className="App">
-      <Editor />
       <Toolbar />
+      <Editor />
     </div>
   );
 }
